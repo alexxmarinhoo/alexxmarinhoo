@@ -1,4 +1,4 @@
-## Oiii, Eu sou Alex Marinho, Atualmente estou na área de Desenvolvedor web no setor de lançamento e estou buscando adquirir o máximo de conhecimento possível na área, para me tornar um melhor desenvolvedor.
+## Oiii, Eu sou Alex Marinho, Sou Desenvolvedor web no setor de lançamento e estou buscando adquirir o máximo de conhecimento possível na área, para me tornar um melhor desenvolvedor.
 
 <div align="center">
   <a href="https://github.com/alexxmarinhoo">
